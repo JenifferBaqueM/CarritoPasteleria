@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "138160307827",
+    "firebase_url": "https://carritopasteleria.firebaseio.com",
+    "project_id": "carritopasteleria",
+    "storage_bucket": "carritopasteleria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138160307827:android:462ca112974ee945",
+        "android_client_info": {
+          "package_name": "com.example.chris.carito_de_compra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138160307827-00dobagm7ggfni0rqfcvk9k5d4muso5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chris.carito_de_compra",
+            "certificate_hash": "a211282c9e7d5b2f917014920bc6b2730c60e756"
+          }
+        },
+        {
+          "client_id": "138160307827-9q03jsh98059s9i18ofsk1av19bie0c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8spZ8hoNnuRLC97wt9Qhp2Ha60QCRH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138160307827-9q03jsh98059s9i18ofsk1av19bie0c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138160307827:android:8d0407562d164c41",
+        "android_client_info": {
+          "package_name": "com.example.chris.carritopasteleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138160307827-2tnlfslgi4uaavs3i8jfmrbqf55cpua9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chris.carritopasteleria",
+            "certificate_hash": "a211282c9e7d5b2f917014920bc6b2730c60e756"
+          }
+        },
+        {
+          "client_id": "138160307827-9q03jsh98059s9i18ofsk1av19bie0c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8spZ8hoNnuRLC97wt9Qhp2Ha60QCRH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138160307827-9q03jsh98059s9i18ofsk1av19bie0c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
